@@ -1,0 +1,21 @@
+<WatchFace
+    clipShape="CIRCLE"
+    height="450"
+    width="450">
+    <Metadata
+        key="CLOCK_TYPE"
+        value="ANALOG" />
+
+    <Scene backgroundColor="#ff000000">
+        <!-- TODO delete this <PartDraw>: -->
+        <PartDraw
+            height="200"
+            width="200"
+            x="125"
+            y="125">
+            <Rectangle x="0" y="0" width="200" height="200">
+                <Fill color="#00ff00"/>
+            </Rectangle>
+        </PartDraw>
+    </Scene>
+</WatchFace>
