@@ -36,3 +36,5 @@ This repository is based on [Google's Watch Face Format Sample repository](https
 [Samsung Watch Face Studio:](https://developer.samsung.com/watch-face-studio/overview.html) the easiest way to design WFF watchfaces, but is less flexible than WFF XML.
 
 [Watch Face Format Sample:](https://github.com/android/wear-os-samples/tree/main/WatchFaceFormat) Google samples demonstrating the structure of WFF watch faces.
+
+[XML Preprocessor:](https://github.com/gondwanasoft/xml-preprocessor) a tool that can help with WFF XML development.
