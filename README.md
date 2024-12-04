@@ -38,3 +38,5 @@ This repository is based on [Google's Watch Face Format Sample repository](https
 [Watch Face Format Sample:](https://github.com/android/wear-os-samples/tree/main/WatchFaceFormat) Google samples demonstrating the structure of WFF watch faces.
 
 [XML Preprocessor:](https://github.com/gondwanasoft/xml-preprocessor) a tool that can help with WFF XML development.
+
+[wff-build-script:](https://github.com/gondwanasoft/wff-build-script) a Microsoft Windows batch file to help with building WFF projects.
